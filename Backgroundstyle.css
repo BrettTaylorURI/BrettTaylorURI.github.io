@@ -1,4 +1,4 @@
-body { background-image: ("mybackground.jpg");
+body { background-image: url("mybackground.jpg");
 }
 
 #nav-table { width: 800px;}
